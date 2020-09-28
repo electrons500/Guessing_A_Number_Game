@@ -1,0 +1,13 @@
+C:\Users\Yishmael\Documents\Visual Studio 2019\Projects\Guessing_A_Number_Game\Guessing_A_Number_Game\bin\Debug\Guessing_A_Number_Game.exe.config
+C:\Users\Yishmael\Documents\Visual Studio 2019\Projects\Guessing_A_Number_Game\Guessing_A_Number_Game\bin\Debug\Guessing_A_Number_Game.exe
+C:\Users\Yishmael\Documents\Visual Studio 2019\Projects\Guessing_A_Number_Game\Guessing_A_Number_Game\bin\Debug\Guessing_A_Number_Game.pdb
+C:\Users\Yishmael\Documents\Visual Studio 2019\Projects\Guessing_A_Number_Game\Guessing_A_Number_Game\bin\Debug\Guessing_A_Number_Game.xml
+C:\Users\Yishmael\Documents\Visual Studio 2019\Projects\Guessing_A_Number_Game\Guessing_A_Number_Game\obj\Debug\Guessing_A_Number_Game.vbprojAssemblyReference.cache
+C:\Users\Yishmael\Documents\Visual Studio 2019\Projects\Guessing_A_Number_Game\Guessing_A_Number_Game\obj\Debug\Guessing_A_Number_Game.frmStartup.resources
+C:\Users\Yishmael\Documents\Visual Studio 2019\Projects\Guessing_A_Number_Game\Guessing_A_Number_Game\obj\Debug\Guessing_A_Number_Game.Resources.resources
+C:\Users\Yishmael\Documents\Visual Studio 2019\Projects\Guessing_A_Number_Game\Guessing_A_Number_Game\obj\Debug\Guessing_A_Number_Game.vbproj.GenerateResource.cache
+C:\Users\Yishmael\Documents\Visual Studio 2019\Projects\Guessing_A_Number_Game\Guessing_A_Number_Game\obj\Debug\Guessing_A_Number_Game.exe
+C:\Users\Yishmael\Documents\Visual Studio 2019\Projects\Guessing_A_Number_Game\Guessing_A_Number_Game\obj\Debug\Guessing_A_Number_Game.xml
+C:\Users\Yishmael\Documents\Visual Studio 2019\Projects\Guessing_A_Number_Game\Guessing_A_Number_Game\obj\Debug\Guessing_A_Number_Game.pdb
+C:\Users\Yishmael\Documents\Visual Studio 2019\Projects\Guessing_A_Number_Game\Guessing_A_Number_Game\obj\Debug\Guessing_A_Number_Game.frmGame.resources
+C:\Users\Yishmael\Documents\Visual Studio 2019\Projects\Guessing_A_Number_Game\Guessing_A_Number_Game\obj\Debug\Guessing_A_Number_Game.vbproj.CoreCompileInputs.cache
